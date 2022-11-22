@@ -613,15 +613,14 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
-  border-radius: 3rem;
+  border-radius: 1rem;
   margin-bottom: 3rem;
   text-align: center;
   border: 2px solid;
-  height: 75vh;
+  height: 50vh;
 }
 
 .service-box:hover .ico-circle {
